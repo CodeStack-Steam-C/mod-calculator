@@ -4,3 +4,6 @@ def sayHelloWorld():
  
 #expected output
 #"Hello World"
+
+
+sayHelloWorld()
